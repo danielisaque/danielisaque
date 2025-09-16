@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Currently majoring in Computer Science by Federal University of Paraiba</h3>
+<h3 align="center">Undergraduate in Computer Science at UFPB</h3>
 
 - 🌱 Currently studing about **Design Patterns, SOLID and Software Architecture**
 
