@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Currently majoring in Computer Science by Federal University of Paraiba</h3>
 
-- 🌱 Currently studing about **Design Patterns, SOLID and Software Architecture **
+- 🌱 Currently studing about **Design Patterns, SOLID and Software Architecture**
 
 - 📫 How to reach me **danielisaqueoficial@gmail.com**
 
