@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Undergraduate in Computer Science at UFPB</h3>
 
-- 🌱 Currently studing about **Design Patterns, SOLID and Software Architecture**
+- 🌱 Currently studing about **Software Engineering, Agile Methods and Quality Assurance**
 
 - 📫 How to reach me **danielisaqueoficial@gmail.com**
 
